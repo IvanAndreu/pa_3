@@ -2,7 +2,7 @@
 title: "Readme"
 author: "Yo"
 date: "4/1/2022"
-output: html_document
+output: github_document
 ---
 
 # Questions 
