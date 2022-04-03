@@ -148,8 +148,6 @@ print(gg)
 
 
 
-
-
 ```{r, plot5, fig.retina=2, fig.height=5, out.width="100%", eval=T}
 
 vowel_means <- datos %>% 
